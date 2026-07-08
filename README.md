@@ -16,8 +16,8 @@
 
 ---
 
-### 🗂️ Chi Sono & Cosa Faccio
-Sono un **libero professionista individuale** (regime forfettario) laureato in **Scienze Ambientali**. Specializzato nella progettazione GIS, nello sviluppo in Python e nell'implementazione di architetture spaziali complesse. Integro soluzioni di Intelligenza Artificiale per l'analisi avanzata e la segmentazione del territorio.
+### 🗂️ Profilo Professionale
+Sono un **libero professionista individuale** (operante in regime forfettario) laureato in **Scienze Ambientali**. Specializzato nella consulenza geospaziale avanzata, progettazione GIS, sviluppo in Python e implementazione di architetture spaziali. Integro soluzioni di Intelligenza Artificiale (AI Agents e Deep Learning) per l'ottimizzazione dei flussi di lavoro e l'analisi quantitativa del territorio.
 
 ---
 
@@ -31,10 +31,16 @@ Sono un **libero professionista individuale** (regime forfettario) laureato in *
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-*   **Geospatial & WebGIS:** Sviluppo di plugin PyQGIS ed estensioni core; progettazione di infrastrutture WebGIS su misura basate su micro-framework.
-*   **AI & Machine Learning:** Automazione di workflow spaziali tramite AI Agent (LangChain, Qwen) e deep learning (DeepForest) applicato alla segmentazione di feature territoriali.
-*   **DevOps & Server Admin:** Gestione di ambienti containerizzati (Docker) su distribuzioni Linux (Ubuntu, Kubuntu, Fedora), configurazione server Samba e cloud storage privati (Nextcloud).
-*   **Formazione & Editoria:** Attività di docenza per corsi di aggiornamento professionale (Geometri) e autore di un volume di imminente pubblicazione sull'applicazione di QGIS per l'ecologia nel Sud Italia.
+*   **Geospatial & WebGIS:** Sviluppo completo di plugin PyQGIS ed estensioni ad hoc; progettazione e deployment di infrastrutture WebGIS su micro-framework.
+*   **AI & Machine Learning:** Automazione di workflow spaziali complessi tramite AI Agent (LangChain, Qwen) e modelli di deep learning (DeepForest) applicati all'estrazione di feature.
+*   **DevOps & Server Admin:** Amministrazione di ambienti containerizzati (Docker) su sistemi Linux (Ubuntu, Kubuntu, Fedora), configurazione server Samba e cloud storage privati (Nextcloud).
+
+---
+
+### 📚 Formazione, Docenze & Pubblicazioni
+
+*   🎓 **Corsi Professionali:** Formatore e docente per il **Collegio dei Geometri e Geometri Laureati di Cosenza**, con all'attivo **2 edizioni** di corsi specialistici focalizzati su QGIS e tecnologie geospaziali applicate.
+*   ✍️ **Collaborazioni Editoriali:** Autore e collaboratore per autorevoli riviste e testate di informazione geografica e geospaziale nel panorama nazionale, tra cui **GeoMedia** e **GeoSmartMagazine**.
 
 ---
 
@@ -80,5 +86,3 @@ I miei strumenti di estensione per l'ecosistema QGIS, approvati e pubblicati nel
 *   🏢 **Studio Professionale:** Mandatoriccio (CS), Calabria, Italia
 *   📧 **Email Principale:** [info@sinocloud.it](mailto:info@sinocloud.it)
 *   📩 **Email Secondaria:** [sino.grande@gmail.com](mailto:sino.grande@gmail.com)
-
-```
