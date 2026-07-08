@@ -1,10 +1,3 @@
-Ecco una versione decisamente più moderna, professionale e d'impatto per il tuo **GitHub Profile README**.
-
-Ho inserito i **badge tecnologici grafici** per la tua tech-stack (che rendono il profilo molto più "developer style"), ho riorganizzato il layout visivo e ho aggiornato i contatti inserendo in primo piano la tua email istituzionale **info@sinocloud.it**.
-
-Puoi copiare direttamente tutto il codice sottostante e incollarlo nel tuo file `README.md`:
-
-```markdown
 # Ciao, sono il Dott. Sarino Alfonso Grande! 👋
 
 <p align="center">
