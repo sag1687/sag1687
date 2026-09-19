@@ -129,6 +129,23 @@ Inoltre, fornisco personalizzazioni di moduli per adattare i prodotti a specific
 
 ---
 
+
+---
+
+## 🔒 Progetti Privati e Commerciali
+
+Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di licenza commerciale e riservatezza. Tuttavia, ecco una panoramica di alcuni dei sistemi su cui lavoro attivamente:
+
+<div align="center">
+
+| | Progetto | Descrizione |
+|:---:|:---|:---|
+| ⚡ | **ELETTRO** | Sistema informativo avanzato per la gestione delle reti elettriche e della pubblica illuminazione. |
+| 🐀 | **NoRats** | Piattaforma geospaziale su PostgreSQL/PostGIS per pianificare, tracciare e gestire campagne di derattizzazione urbana. |
+| 📜 | **Script & Automazioni** | Pipeline e script proprietari per l'automazione di processi geospaziali ed ETL. |
+
+</div>
+
 ## 📂 I miei repository / My Repositories
 
 > 🤖 *Questa sezione si aggiorna automaticamente ogni 6 ore tramite GitHub Actions*
