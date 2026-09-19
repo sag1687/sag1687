@@ -155,10 +155,17 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 
 | | Repository | Linguaggio | ⭐ | Descrizione | Ultimo aggiornamento |
 |:-:|:-----------|:----------:|:--:|:------------|:--------------------:|
+| 🐍 | [**q_press**](https://github.com/sag1687/q_press) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | — | IT: Genera PDF cartografici professionali dall'area selezionata sul canvas co… | `19/09/2026` |
+| 🐍 | [**qgis_ledger**](https://github.com/sag1687/qgis_ledger) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | — | IT: Controllo di versione stile Git per progetti QGIS: diff geometrici, rollb… | `19/09/2026` |
+| 🐍 | [**GeoCSV-Mapper**](https://github.com/sag1687/GeoCSV-Mapper) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | — | IT: Importa CSV con coordinate in vari formati (incluso DMS), anteprima mappa… | `19/09/2026` |
+| 🐍 | [**CRS_FIXER**](https://github.com/sag1687/CRS_FIXER) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | — | Strumento avanzato per il rilevamento e la correzione automatica dei problemi… | `19/09/2026` |
+| 🐍 | [**stac_browser**](https://github.com/sag1687/stac_browser) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | — | IT: Cerca e scarica dati di osservazione della Terra dai cataloghi STAC diseg… | `19/09/2026` |
+| 🐍 | [**profili**](https://github.com/sag1687/profili) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | — | IT: Profili altimetrici (con anteprima live ProfiloExpress), sezioni con volu… | `19/09/2026` |
+| 🐍 | [**geobridge**](https://github.com/sag1687/geobridge) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | — | IT: Client non ufficiale per le API IGM: conversione di coordinate e layer ve… | `19/09/2026` |
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 19/09/2026 alle 20:17 UTC — Trovati <b>0</b> repository pubblici</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 19/09/2026 alle 20:27 UTC — Trovati <b>7</b> repository pubblici</sub></div>
 <!-- REPO-LIST:END -->
 
 ---
