@@ -120,6 +120,14 @@ https://github.com/user-attachments/assets/intro-video
 > 🤖 *Questa sezione si aggiorna automaticamente ogni 6 ore tramite GitHub Actions*
 
 <!-- REPO-LIST:START -->
+<div align="center">
+
+| | Repository | Linguaggio | ⭐ | Descrizione | Ultimo aggiornamento |
+|:-:|:-----------|:----------:|:--:|:------------|:--------------------:|
+
+</div>
+
+<div align="center"><sub>🤖 Aggiornato automaticamente il 19/09/2026 alle 20:00 UTC — Trovati <b>0</b> repository pubblici</sub></div>
 <!-- REPO-LIST:END -->
 
 ---
