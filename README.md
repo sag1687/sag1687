@@ -26,15 +26,17 @@
 
 <img align="right" src="https://sinocloud.it/assets/img-logo/og-home.webp" width="320" alt="SinoCloud"/>
 
-**Dott. Sarino Alfonso Grande** — Analista GIS e Full Stack Developer con oltre 10 anni di esperienza.
+**Dott. Sarino Alfonso Grande** — Analista GIS e Full Stack Developer.
+Possiedo competenze avanzate in Sistemi Informativi Geografici (GIS), programmazione Python, sviluppo WebGIS, tecnologie UAV e fotogrammetria, integrazione di intelligenza artificiale in progetti geospaziali, telerilevamento e sviluppo di soluzioni cloud per l'hosting di piattaforme GIS.
 
 📍 Mandatoriccio (CS), Calabria, Italia  
-🎓 Laureato all'**Università della Calabria**  
-🌍 Speaker internazionale **FOSS4G-Asia 2023** (Seoul, South Korea)  
-🎖️ Certificazione **QGIS Professional** · Attestato **Pilota UAS/Droni ENAC**
+🎓 Laureato in Scienze Ambientali all'**Università di Bari**  
+🌍 **FOSS4G-Asia 2023** (Seoul, South Korea) — Membro del team che ha presentato *GisHosting2* per conto di GTER  
+🎖️ Certificazione **QGIS Professional** · Attestato **Pilota UAS/Droni ENAC (Categoria A2)**
 
-> *Trasformo dati geospaziali in soluzioni concrete: plugin QGIS, WebGIS interattivi,*
-> *automazioni Python e formazione professionale per geometri, ingegneri e PA.*
+> *Trasformo dati geospaziali in soluzioni concrete: plugin QGIS, WebGIS interattivi, automazioni Python e formazione professionale per geometri, ingegneri e PA.*
+
+Tra i progetti più significativi ho lavorato allo sviluppo della piattaforma Spatiqon per Aerialclick, all'implementazione di un sistema GIS per il Progetto Tempa Rossa nel settore energetico, alla creazione della piattaforma DidatticamenteGIS per la formazione, e allo sviluppo di soluzioni di computer vision per il riconoscimento di elementi territoriali.
 
 <br clear="right"/>
 
@@ -44,20 +46,15 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/intro-video
+<video src="https://raw.githubusercontent.com/sag1687/sag1687/main/assets/video/intro.mp4" controls="controls" width="800"></video>
 
-<!-- Il video sarà disponibile dopo l'upload su GitHub. In alternativa: -->
-<a href="https://sinocloud.it">
-  <img src="https://sinocloud.it/static/img/portfolio/webgis/Webgis.webp" width="680" alt="SinoCloud - Video presentazione"/>
-</a>
-
-<sub>🎥 Visita <a href="https://sinocloud.it"><b>sinocloud.it</b></a> per il video completo</sub>
+<sub>🎥 Visita <a href="https://sinocloud.it"><b>sinocloud.it</b></a> per scoprire di più.</sub>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Competenze
 
 <div align="center">
 
@@ -70,6 +67,23 @@ https://github.com/user-attachments/assets/intro-video
 | **DevOps & Altro** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Droni](https://img.shields.io/badge/Droni_UAS-1a1a2e?style=flat-square&logoColor=white) |
 
 </div>
+
+---
+
+## 🚀 Prodotti e Soluzioni Software (SinoCloud.it)
+
+Sviluppo soluzioni GIS avanzate per settori specialistici. Tutti i miei prodotti sono progettati per essere modulari e integrabili con sistemi esistenti. Fornisco API e documentazione tecnica per facilitare l'integrazione con software di terze parti e supporto continuo:
+
+- 🛣️ **Catasto Strade**: per la gestione infrastrutturale.
+- 🏙️ **CivilGIS**: per l'urbanistica e il territorio.
+- 💡 **Elettro**: dedicato alla gestione dell'illuminazione pubblica.
+- 🌐 **Spatiqon**: specializzato nell'integrazione dati geospaziali da diverse fonti.
+- 🌤️ **Meteo_Predict**: soluzioni e analisi per le previsioni meteorologiche.
+- 🌿 **NDVI_Explorer**: strumento per l'analisi vegetazionale avanzata.
+- 🥾 **Walking Calabria**: piattaforma dedicata al turismo outdoor.
+- ☀️ **SolarFinder**: soluzioni GIS rivolte al settore fotovoltaico.
+
+Inoltre, fornisco personalizzazioni di moduli per adattare i prodotti a specifici flussi di lavoro aziendali, offrendo supporto diretto e manutenzione completa.
 
 ---
 
@@ -170,7 +184,7 @@ https://github.com/user-attachments/assets/intro-video
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/FOSS4G-2023_Seoul-f5c451?style=for-the-badge" alt="FOSS4G"/>
-<br/><sub><b>Speaker FOSS4G-Asia</b></sub>
+<br/><sub><b>Membro Team FOSS4G</b></sub>
 <br/><sub>Seoul, South Korea</sub>
 </td>
 <td align="center" width="200">
