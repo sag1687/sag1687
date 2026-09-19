@@ -46,7 +46,7 @@ Tra i progetti più significativi ho lavorato allo sviluppo della piattaforma Sp
 
 <div align="center">
 
-<video src="https://raw.githubusercontent.com/sag1687/sag1687/main/assets/video/intro.mp4" controls="controls" width="800"></video>
+https://github.com/sag1687/sag1687/raw/main/assets/video/intro.mp4
 
 <sub>🎥 Visita <a href="https://sinocloud.it"><b>sinocloud.it</b></a> per scoprire di più.</sub>
 
