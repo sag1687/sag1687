@@ -1,0 +1,43 @@
+name: 🔄 Update Repo List
+
+on:
+  # Runs every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+  # Runs when a new repo is created/updated
+  repository_dispatch:
+    types: [update-repos]
+  # Runs on push to main (manual trigger)
+  push:
+    branches: [main]
+  # Manual trigger from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: 🔄 Update repo list in README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_repos.py
+
+      - name: 📤 Commit & Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet README.md || (git add README.md && git commit -m "🤖 Auto-update repository list [skip ci]" && git push)
