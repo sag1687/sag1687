@@ -165,7 +165,7 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 22/09/2026 alle 20:54 UTC — Trovati <b>7</b> repository pubblici</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 23/09/2026 alle 03:24 UTC — Trovati <b>7</b> repository pubblici</sub></div>
 <!-- REPO-LIST:END -->
 
 ---
