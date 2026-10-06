@@ -190,6 +190,26 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 
 ---
 
+## 🐞 Contributi alla comunità QGIS / QGIS Community Contributions
+
+Segnalazioni di bug e contributi nei repository ufficiali di QGIS, aggiornati automaticamente.
+
+<!-- QGIS-CONTRIB:START -->
+<div align="center">
+
+| Data / Date | Tipo / Type | Riferimento | Titolo / Title | Stato / Status |
+|:-----------:|:-----------:|:------------|:---------------|:---------------|
+| `06/10/2026` | 🐞 Issue | [qgis/QGIS#67668](https://github.com/qgis/QGIS/issues/67668) | qgis.testing.start_app() log output is silent since QGIS 4.0: QgsMessageLog.messageRece… | 🟢 aperta / open |
+| `11/09/2026` | 🐞 Issue | [qgis/QGIS#67398](https://github.com/qgis/QGIS/issues/67398) | HiDPI map export shifts georeferencing by half a physical pixel when devicePixelRatio is 2 | 🟢 aperta / open |
+| `16/08/2026` | 🐞 Issue | [qgis/QGIS#67073](https://github.com/qgis/QGIS/issues/67073) | Native 3D Map View renders a black screen when a DTM is used as terrain (NVIDIA / Qt3D)… | ⚪ duplicato / duplicate |
+
+</div>
+
+<div align="center"><sub>🤖 Aggiornato automaticamente il 06/10/2026 alle 15:47 UTC — <b>3</b> issue e <b>0</b> pull request nei repository ufficiali QGIS</sub></div>
+<!-- QGIS-CONTRIB:END -->
+
+---
+
 ## 🏆 Highlights
 
 <div align="center">

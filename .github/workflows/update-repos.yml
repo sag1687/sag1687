@@ -36,8 +36,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/update_repos.py
 
+      - name: 🐞 Update QGIS contributions in README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_qgis_contrib.py
+
       - name: 📤 Commit & Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git diff --quiet README.md || (git add README.md && git commit -m "🤖 Auto-update repository list [skip ci]" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "🤖 Auto-update README (repository + contributi QGIS) [skip ci]" && git push)
