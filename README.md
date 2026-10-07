@@ -32,7 +32,7 @@ Possiedo competenze avanzate in Sistemi Informativi Geografici (GIS), programmaz
 📍 Mandatoriccio (CS), Calabria, Italia  
 🎓 Laureato in Scienze Ambientali all'**Università di Bari**  
 🌍 **FOSS4G-Asia 2023** (Seoul, South Korea) — Membro del team che ha presentato *GisHosting2* per conto di GTER  
-🎖️ Certificazione **QGIS Professional** · Attestato **Pilota UAS/Droni ENAC (Categoria A2)**
+🎖️ WebMapping con QGIS With a trained competence in: lizmap, qgis-server, ssh qgis-server, ssh · Attestato **Pilota UAS/Droni ENAC (Categoria A2)**
 
 > *Trasformo dati geospaziali in soluzioni concrete: plugin QGIS, WebGIS interattivi, automazioni Python e formazione professionale per geometri, ingegneri e PA.*
 
