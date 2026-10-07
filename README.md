@@ -165,7 +165,7 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 07/10/2026 alle 13:09 UTC — Trovati <b>7</b> repository pubblici</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 07/10/2026 alle 22:44 UTC — Trovati <b>7</b> repository pubblici</sub></div>
 <!-- REPO-LIST:END -->
 
 ---
@@ -202,13 +202,13 @@ Segnalazioni di bug e contributi nei repository ufficiali di QGIS, aggiornati au
 | `06/10/2026` | 🔀 PR | [qgis/QGIS-Documentation#11310](https://github.com/qgis/QGIS-Documentation/pull/11310) | Remove the pre- and post-execution script hooks | 🟢 aperta / open |
 | `06/10/2026` | 🔀 PR | [qgis/QGIS-Documentation#11309](https://github.com/qgis/QGIS-Documentation/pull/11309) | Document NODATA and CREATION_OPTIONS in IDW and TIN interpolation | 🟢 aperta / open |
 | `06/10/2026` | 🔀 PR | [qgis/QGIS-Documentation#11308](https://github.com/qgis/QGIS-Documentation/pull/11308) | README: require Python >= 3.11 to build the docs | 🟢 aperta / open |
-| `06/10/2026` | 🐞 Issue | [qgis/QGIS#67668](https://github.com/qgis/QGIS/issues/67668) | qgis.testing.start_app() log output is silent since QGIS 4.0: QgsMessageLog.messageRece… | 🟢 aperta / open |
+| `06/10/2026` | 🐞 Issue | [qgis/QGIS#67668](https://github.com/qgis/QGIS/issues/67668) | qgis.testing.start_app() log output is silent since QGIS 4.0: QgsMessageLog.messageRece… | ✅ completata / completed |
 | `11/09/2026` | 🐞 Issue | [qgis/QGIS#67398](https://github.com/qgis/QGIS/issues/67398) | HiDPI map export shifts georeferencing by half a physical pixel when devicePixelRatio is 2 | 🟢 aperta / open |
 | `16/08/2026` | 🐞 Issue | [qgis/QGIS#67073](https://github.com/qgis/QGIS/issues/67073) | Native 3D Map View renders a black screen when a DTM is used as terrain (NVIDIA / Qt3D)… | ⚪ duplicato / duplicate |
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 07/10/2026 alle 13:09 UTC — <b>3</b> issue e <b>3</b> pull request nei repository ufficiali QGIS</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 07/10/2026 alle 22:44 UTC — <b>3</b> issue e <b>3</b> pull request nei repository ufficiali QGIS</sub></div>
 <!-- QGIS-CONTRIB:END -->
 
 ---
