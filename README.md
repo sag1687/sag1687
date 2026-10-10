@@ -165,7 +165,7 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 10/10/2026 alle 04:24 UTC — Trovati <b>7</b> repository pubblici</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 10/10/2026 alle 11:56 UTC — Trovati <b>7</b> repository pubblici</sub></div>
 <!-- REPO-LIST:END -->
 
 ---
@@ -208,7 +208,7 @@ Segnalazioni di bug e contributi nei repository ufficiali di QGIS, aggiornati au
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 10/10/2026 alle 04:24 UTC — <b>3</b> issue e <b>3</b> pull request nei repository ufficiali QGIS</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 10/10/2026 alle 11:56 UTC — <b>3</b> issue e <b>3</b> pull request nei repository ufficiali QGIS</sub></div>
 <!-- QGIS-CONTRIB:END -->
 
 ---
