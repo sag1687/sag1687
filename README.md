@@ -18,6 +18,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sino.grande@gmail.com)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot_⭐5.0-00b67a?style=for-the-badge&logo=trustpilot&logoColor=white)](https://it.trustpilot.com/review/sinocloud.it)
 
+<br/>
+
+### 🧭 L'AI serve l'uomo, non l'uomo l'AI.
+#### *AI serves people — people don't serve AI.*
+
+<p align="center"><sub>Al centro ci sono la persona, la sua esperienza e il territorio: l'intelligenza artificiale è uno strumento, come QGIS o Python. Le scelte, le verifiche e la responsabilità restano umane.</sub><br/><sub><i>People, their experience and the land come first: AI is a tool, like QGIS or Python. Choices, checks and responsibility stay human.</i></sub></p>
+
 </div>
 
 ---
@@ -32,11 +39,11 @@ Possiedo competenze avanzate in Sistemi Informativi Geografici (GIS), programmaz
 📍 Mandatoriccio (CS), Calabria, Italia  
 🎓 Laureato in Scienze Ambientali all'**Università di Bari**  
 🌍 **FOSS4G-Asia 2023** (Seoul, South Korea) — Membro del team che ha presentato *GisHosting2* per conto di GTER  
-🎖️ WebMapping con QGIS With a trained competence in: lizmap, qgis-server, ssh qgis-server, ssh · Attestato **Pilota UAS/Droni ENAC (Categoria A2)**
+🎖️ WebMapping con QGIS (Lizmap, QGIS Server) · Attestato **Pilota UAS/Droni ENAC (Categoria A2)**
 
 > *Trasformo dati geospaziali in soluzioni concrete: plugin QGIS, WebGIS interattivi, automazioni Python e formazione professionale per geometri, ingegneri e PA.*
 
-Tra i progetti più significativi ho lavorato allo sviluppo della piattaforma Spatiqon per Aerialclick, all'implementazione di un sistema GIS per il Progetto Tempa Rossa nel settore energetico, alla creazione della piattaforma DidatticamenteGIS per la formazione, e allo sviluppo di soluzioni di computer vision per il riconoscimento di elementi territoriali.
+Il mio progetto principale è **[SPATIQON](https://spatiqon.sinocloud.it)**, la piattaforma WebGIS che ho ideato e sviluppo in proprio ([demo online](https://demo.spatiqon.sinocloud.it)). Tra gli altri progetti significativi ho lavorato all'implementazione di un sistema GIS per il Progetto Tempa Rossa nel settore energetico, alla creazione della piattaforma DidatticamenteGIS per la formazione, e allo sviluppo di soluzioni di computer vision per il riconoscimento di elementi territoriali.
 
 <br clear="right"/>
 
@@ -77,7 +84,7 @@ Sviluppo soluzioni GIS avanzate per settori specialistici. Tutti i miei prodotti
 - 🛣️ **Catasto Strade**: per la gestione infrastrutturale.
 - 🏙️ **CivilGIS**: per l'urbanistica e il territorio.
 - 💡 **Elettro**: dedicato alla gestione dell'illuminazione pubblica.
-- 🌐 **Spatiqon**: specializzato nell'integrazione dati geospaziali da diverse fonti.
+- 🌐 **[SPATIQON](https://spatiqon.sinocloud.it)**: la mia piattaforma WebGIS completa — PostGIS/pgRouting, motore GIS, fotogrammetria da drone, nuvole di punti 3D, stampa cartografica e AI geospaziale nel browser. [Prova la demo](https://demo.spatiqon.sinocloud.it).
 - 🌤️ **Meteo_Predict**: soluzioni e analisi per le previsioni meteorologiche.
 - 🌿 **NDVI_Explorer**: strumento per l'analisi vegetazionale avanzata.
 - 🥾 **Walking Calabria**: piattaforma dedicata al turismo outdoor.
@@ -129,9 +136,6 @@ Inoltre, fornisco personalizzazioni di moduli per adattare i prodotti a specific
 
 ---
 
-
----
-
 ## 🔒 Progetti Privati e Commerciali
 
 Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di licenza commerciale e riservatezza. Tuttavia, ecco una panoramica di alcuni dei sistemi su cui lavoro attivamente:
@@ -145,6 +149,8 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 | 📜 | **Script & Automazioni** | Pipeline e script proprietari per l'automazione di processi geospaziali ed ETL. |
 
 </div>
+
+---
 
 ## 📂 I miei repository / My Repositories
 
@@ -193,6 +199,9 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 ## 🐞 Contributi alla comunità QGIS / QGIS Community Contributions
 
 Segnalazioni di bug e contributi nei repository ufficiali di QGIS, aggiornati automaticamente.
+
+> 🏅 **Contributore della documentazione ufficiale QGIS** — PR [qgis/QGIS-Documentation#11308](https://github.com/qgis/QGIS-Documentation/pull/11308) accettata / *merged* (08/10/2026)<br/>
+> 🏅 **Regressione di QGIS 4.0 segnalata e corretta** — issue [qgis/QGIS#67668](https://github.com/qgis/QGIS/issues/67668), correzione in QGIS 4.4 / *fixed in QGIS 4.4*
 
 <!-- QGIS-CONTRIB:START -->
 <div align="center">
