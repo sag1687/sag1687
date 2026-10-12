@@ -171,7 +171,7 @@ Alcuni dei miei repository sono ospitati privatamente su GitHub per ragioni di l
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 12/10/2026 alle 04:24 UTC — Trovati <b>7</b> repository pubblici</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 12/10/2026 alle 14:28 UTC — Trovati <b>7</b> repository pubblici</sub></div>
 <!-- REPO-LIST:END -->
 
 ---
@@ -208,7 +208,7 @@ Segnalazioni di bug e contributi nei repository ufficiali di QGIS, aggiornati au
 
 | Data / Date | Tipo / Type | Riferimento | Titolo / Title | Stato / Status |
 |:-----------:|:-----------:|:------------|:---------------|:---------------|
-| `06/10/2026` | 🔀 PR | [qgis/QGIS-Documentation#11310](https://github.com/qgis/QGIS-Documentation/pull/11310) | Remove the pre- and post-execution script hooks | 🟢 aperta / open |
+| `06/10/2026` | 🔀 PR | [qgis/QGIS-Documentation#11310](https://github.com/qgis/QGIS-Documentation/pull/11310) | Remove the pre- and post-execution script hooks | 🟣 accettata / merged |
 | `06/10/2026` | 🔀 PR | [qgis/QGIS-Documentation#11309](https://github.com/qgis/QGIS-Documentation/pull/11309) | Document NODATA and CREATION_OPTIONS in IDW and TIN interpolation | 🟢 aperta / open |
 | `06/10/2026` | 🔀 PR | [qgis/QGIS-Documentation#11308](https://github.com/qgis/QGIS-Documentation/pull/11308) | README: require Python >= 3.11 to build the docs | 🟣 accettata / merged |
 | `06/10/2026` | 🐞 Issue | [qgis/QGIS#67668](https://github.com/qgis/QGIS/issues/67668) | qgis.testing.start_app() log output is silent since QGIS 4.0: QgsMessageLog.messageRece… | ✅ completata / completed |
@@ -217,7 +217,7 @@ Segnalazioni di bug e contributi nei repository ufficiali di QGIS, aggiornati au
 
 </div>
 
-<div align="center"><sub>🤖 Aggiornato automaticamente il 12/10/2026 alle 04:24 UTC — <b>3</b> issue e <b>3</b> pull request nei repository ufficiali QGIS</sub></div>
+<div align="center"><sub>🤖 Aggiornato automaticamente il 12/10/2026 alle 14:28 UTC — <b>3</b> issue e <b>3</b> pull request nei repository ufficiali QGIS</sub></div>
 <!-- QGIS-CONTRIB:END -->
 
 ---
